@@ -1,0 +1,35 @@
+@media (max-width: 768px) {
+    .footer-grid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+
+    .footer-section {
+        text-align: center;
+        padding: 1rem 0;
+        border-bottom: 1px solid #e5e7eb;
+    }
+
+    .footer-section:last-child {
+        border-bottom: none;
+    }
+
+    .app-download-section {
+        order: -1;
+    }
+
+    .app-download-buttons {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .social-links {
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+
+    .contact-info {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+}

@@ -1,0 +1,10 @@
+
+/* => directory : assets/css/frontend/layout/ */
+@import './layout/base.css';
+@import './layout/header.css';
+@import './layout/mobile-menu.css';
+@import './layout/category-menu.css';
+@import './layout/footer.css';
+@import './layout/responsive.css';
+/* end */
+

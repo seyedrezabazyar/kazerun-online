@@ -1,0 +1,28 @@
+.mobile-menu {
+    display: none;
+    transition: transform 0.3s ease;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 80%;
+    height: 100%;
+    background-color: white;
+    z-index: 50;
+}
+
+.mobile-menu.active {
+    display: block;
+    transform: translateX(0);
+}
+
+#mobileMenuOverlay {
+    z-index: 45;
+    display: none;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    inset: 0;
+}
+
+#mobileMenuOverlay.active {
+    display: block;
+}
