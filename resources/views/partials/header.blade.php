@@ -15,7 +15,7 @@
             </div>
             <div class="px-4 pb-3">
                 <div class="relative">
-                    <input type="text" placeholder="جستجو در تخفیفان..."
+                    <input type="text" placeholder="جستجو در کازرون آنلاین..."
                         class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:border-red-custom text-right pr-10">
                     <button class="absolute right-2 top-1/2 transform -translate-y-1/2 text-red-custom">
                         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
