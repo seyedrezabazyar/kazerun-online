@@ -20,24 +20,24 @@
                 <div class="footer-section">
                     <h3 class="font-bold text-gray-800 mb-4 text-lg md:text-base">بیشتر بخوانید</h3>
                     <ul class="space-y-3 md:space-y-2 text-gray-600">
-                        <li><a href="#" class="hover:text-red-custom transition-colors block py-1">تخفیفان چگونه کار
+                        <li><a href="#" class="hover:text-red-custom transition-colors block py-1"> کازرون آنلاین  چگونه کار
                                 می‌کند</a></li>
-                        <li><a href="#" class="hover:text-red-custom transition-colors block py-1">مجله تخفیفان</a></li>
+                        <li><a href="#" class="hover:text-red-custom transition-colors block py-1"></a></li>
                     </ul>
                 </div>
                 <div class="footer-section">
-                    <h3 class="font-bold text-gray-800 mb-4 text-lg md:text-base">همکاری با تخفیفان</h3>
+                    <h3 class="font-bold text-gray-800 mb-4 text-lg md:text-base">همکاری با کازرون آنلاین</h3>
                     <ul class="space-y-3 md:space-y-2 text-gray-600">
-                        <li><a href="#" class="hover:text-red-custom transition-colors block py-1">فرصت‌های شغلی</a>
+                        <li><a href="#" class="hover:text-red-custom transition-colors block py-1"> خدمات کازرون آنلاین</a>
                         </li>
                         <li><a href="#" class="hover:text-red-custom transition-colors block py-1">کسب و کار خود را
                                 تبلیغ کنید</a></li>
-                        <li><a href="#" class="hover:text-red-custom transition-colors block py-1">خدمات سازمانی</a>
+                        <li><a href="#" class="hover:text-red-custom transition-colors block py-1">فرصت های شغلی</a>
                         </li>
                     </ul>
                 </div>
                 <div class="footer-section">
-                    <h3 class="font-bold text-gray-800 mb-4 text-lg md:text-base">درباره تخفیفان</h3>
+                    <h3 class="font-bold text-gray-800 mb-4 text-lg md:text-base">درباره کازرون آنلاین</h3>
                     <ul class="space-y-3 md:space-y-2 text-gray-600">
                         <li><a href="#" class="hover:text-red-custom transition-colors block py-1">درباره ما</a></li>
                         <li><a href="#" class="hover:text-red-custom transition-colors block py-1">تماس با ما</a></li>
@@ -58,7 +58,7 @@
                                     d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z">
                                 </path>
                             </svg>
-                            <span>۰۲۱-۹۱۰۰۸۹۰۰</span>
+                            <span>09179070298</span>
                         </div>
                         <div class="flex items-center">
                             <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -66,7 +66,7 @@
                                     d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z">
                                 </path>
                             </svg>
-                            <span>info@takhfifan.com</span>
+                       
                         </div>
                     </div>
                     <div class="social-links flex items-center space-x-4 space-x-reverse">
@@ -83,6 +83,6 @@
             </div>
         </div>
         <div class="border-t mt-6 pt-6 text-center">
-            <p class="text-gray-500 text-sm">© ۱۴۰۳ تخفیفان. تمام حقوق محفوظ است.</p>
+            <p class="text-gray-500 text-sm">© ۱۴۰۳ کازرون آنلاین تمام حقوق محفوظ است.</p>
         </div>
     </footer>

@@ -26,7 +26,7 @@
                                         <div class="accordion-item">
                                             <div class="accordion-header text-gray-700 hover:text-red-custom"
                                                 data-category="restaurant">
-                                                <span>رستوران</span>
+                                                <span>گردشگری</span>
                                                 <svg class="w-5 h-5" fill="none" stroke="currentColor"
                                                     viewBox="0 0 24 24">
                                                     <path stroke-linecap="round" stroke-linejoin="round"
@@ -36,23 +36,19 @@
                                             <div class="accordion-content">
                                                 <ul class="space-y-2 pl-4">
                                                     <li><a href="#"
-                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">فست
-                                                            فود</a></li>
+                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">
+                                                            جاذبه های طبیعی</a></li>
                                                     <li><a href="#"
-                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">رستوران‌های
-                                                            ایرانی</a></li>
+                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">
+                                                            جاذبه های تاریخی</a></li>
                                                     <li><a href="#"
-                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">رستوران‌های
-                                                            خارجی</a></li>
+                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">
+                                                            مکان های مذهبی</a></li>
                                                     <li><a href="#"
-                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">کافه
-                                                            و قهوه‌خانه</a></li>
-                                                    <li><a href="#"
-                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">شیرینی
-                                                            و قنادی</a></li>
-                                                    <li><a href="#"
-                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">آبمیوه
-                                                            و بستنی</a></li>
+                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">
+                                                            جاذبه های شهری</a></li>
+                                                    
+                                                   
                                                 </ul>
                                             </div>
                                         </div>
@@ -60,7 +56,7 @@
                                         <div class="accordion-item">
                                             <div class="accordion-header text-gray-700 hover:text-red-custom"
                                                 data-category="entertainment">
-                                                <span>تفریحی</span>
+                                                <span>کسب و کار </span>
                                                 <svg class="w-5 h-5" fill="none" stroke="currentColor"
                                                     viewBox="0 0 24 24">
                                                     <path stroke-linecap="round" stroke-linejoin="round"
@@ -70,23 +66,22 @@
                                             <div class="accordion-content">
                                                 <ul class="space-y-2 pl-4">
                                                     <li><a href="#"
-                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">سینما</a>
+                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">طراحی سایت</a>
                                                     </li>
                                                     <li><a href="#"
-                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">تئاتر</a>
+                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">هوش مصنوعی</a>
                                                     </li>
                                                     <li><a href="#"
-                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">کنسرت</a>
+                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">ساخت ربات</a>
                                                     </li>
                                                     <li><a href="#"
-                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">پارک‌های
-                                                            تفریحی</a></li>
+                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">
+                                                            برنامه نویسی</a></li>
                                                     <li><a href="#"
-                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">بازی‌های
-                                                            کامپیوتری</a></li>
+                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">امنیت سایبری</a></li>
                                                     <li><a href="#"
-                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">اسکیپ
-                                                            روم</a></li>
+                                                            class="block py-2 px-2 text-gray-700 hover:text-red-custom hover:bg-gray-100 rounded-lg transition-colors">
+                                                            طراحی گرافیک</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -95,17 +90,20 @@
                                 </div>
                             </div>
                             <a href="#"
-                                class="text-gray-700 hover:text-red-custom py-2 px-4 rounded-lg hover:bg-gray-100 transition-colors">پیشنهاد
-                                پول خرید اینترنتی</a>
+                                class="text-gray-700 hover:text-red-custom py-2 px-4 rounded-lg hover:bg-gray-100 transition-colors">صفحه اصلی
+                                  </a>
                             <a href="#"
-                                class="text-gray-700 hover:text-red-custom py-2 px-4 rounded-lg hover:bg-gray-100 transition-colors">پیشنهاد
-                                پول خرید حضوری</a>
+                                class="text-gray-700 hover:text-red-custom py-2 px-4 rounded-lg hover:bg-gray-100 transition-colors">درباره کازرون
+                                  </a>
                             <a href="#"
-                                class="text-gray-700 hover:text-red-custom py-2 px-4 rounded-lg hover:bg-gray-100 transition-colors">کارت
-                                تخفیف</a>
+                                class="text-gray-700 hover:text-red-custom py-2 px-4 rounded-lg hover:bg-gray-100 transition-colors">وقایع و گردشگری
+                                </a>
+                                <a href="#"
+                                class="text-gray-700 hover:text-red-custom py-2 px-4 rounded-lg hover:bg-gray-100 transition-colors">گردشگری 
+                                  </a>
                             <a href="#"
-                                class="text-gray-700 hover:text-red-custom py-2 px-4 rounded-lg hover:bg-gray-100 transition-colors">تخفیفان
-                                سازمانی</a>
+                                class="text-gray-700 hover:text-red-custom py-2 px-4 rounded-lg hover:bg-gray-100 transition-colors"> کسب و کار
+                                </a>
                         </div>
                         <div class="flex items-center space-x-4 space-x-reverse">
                             <a href="#"
@@ -151,15 +149,16 @@
         </div>
         <div class="p-4 overflow-y-auto h-full pb-20">
             <ul class="space-y-4">
-                <li><a href="#" class="block py-2 text-gray-700 hover:text-red-custom">دانلود اپلیکیشن</a></li>
-                <li><a href="#" class="block py-2 text-gray-700 hover:text-red-custom">کسب و کار من</a></li>
+                <li><a href="#" class="block py-2 text-gray-700 hover:text-red-custom">صفحه اصلی </a></li>
+                <li><a href="#" class="block py-2 text-gray-700 hover:text-red-custom"> درباره کازرون  </a></li>
                 <li><button id="categoryMenuFromMain"
                         class="block py-2 text-gray-700 hover:text-red-custom text-right w-full">همه
                         دسته‌بندی‌ها</button></li>
-                <li><a href="#" class="block py-2 text-gray-700 hover:text-red-custom">پیشنهاد پول خرید اینترنتی</a>
+                <li><a href="#" class="block py-2 text-gray-700 hover:text-red-custom">  وقایع   </a>
                 </li>
-                <li><a href="#" class="block py-2 text-gray-700 hover:text-red-custom">پیشنهاد پول خرید حضوری</a></li>
-                <li><a href="#" class="block py-2 text-gray-700 hover:text-red-custom">کارت تخفیف</a></li>
+                <li><a href="#" class="block py-2 text-gray-700 hover:text-red-custom"> گردشگری</a></li>
+                <li><a href="#" class="block py-2 text-gray-700 hover:text-red-custom">  کسب و کار و اقتصاد</a></li>
+                <li><a href="#" class="block py-2 text-gray-700 hover:text-red-custom">دانب </a></li>
                 <li><a href="#" class="block py-2 text-gray-700 hover:text-red-custom">تخفیفان سازمانی</a></li>
             </ul>
         </div>
